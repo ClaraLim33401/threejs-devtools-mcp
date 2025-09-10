@@ -1,6 +1,6 @@
 {
   "name": "threejs-devtools-mcp",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Three.js MCP server \u2014 inspect and edit scenes, materials, shaders, lights in real time from any AI agent",
   "main": "src/index.ts",
   "scripts": {
